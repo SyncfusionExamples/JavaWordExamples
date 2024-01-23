@@ -17,7 +17,6 @@ Take a moment to peruse the [documentation](https://help.syncfusion.com/java-fil
 
 ## Compatible Microsoft Word Versions
 
-*   Microsoft Word 97-2003
 *   Microsoft Word 2007
 *   Microsoft Word 2010
 *   Microsoft Word 2013
@@ -82,7 +81,7 @@ Take a moment to peruse the [documentation](https://help.syncfusion.com/java-fil
 ## Resources
 
 - **Product page:** [Syncfusion Java Word Framework](https://www.syncfusion.com/document-processing/word-framework/java?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
-- **Documentation:** [Mail merge using Syncfusion Java Word library](https://help.syncfusion.com/java-file-formats/word-library/overview?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
+- **Documentation:** [Syncfusion Java Word library](https://help.syncfusion.com/java-file-formats/word-library/overview?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
 -   **Knowledge Base:** [Syncfusion Word library - Knowledge Base](https://www.syncfusion.com/kb/java/docio?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
 
 ## Support and feedback
