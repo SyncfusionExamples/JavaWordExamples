@@ -6,7 +6,7 @@ import com.syncfusion.javahelper.system.collections.generic.ListSupport;
 import com.syncfusion.javahelper.system.data.*;
 
 public class ReplaceMergeFieldWithHTML {
-	private static final String DATA_DIR="resources\\replacemergefieldwithhtml";
+	private static final String DATA_DIR="resources\\mailmerge\\replacemergefieldwithhtml";
 	static HashMap<WParagraph, HashMap<Integer, String>> paraToInsertHTML = new HashMap<>();
 
 	public static void main(String[] args) throws Exception {
